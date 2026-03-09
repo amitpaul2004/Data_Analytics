@@ -132,6 +132,8 @@ Amit Paul
 
 💻 Data Science | Python | Machine Learning
 
+---
+
 ⭐ Support
 
 If you like this project:
