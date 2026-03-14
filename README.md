@@ -1,4 +1,3 @@
-
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Titanic+Data+Analysis;ANOVA+Statistical+Testing;Python+Data+Science+Project;Data+Visualization+with+Seaborn;Machine+Learning+Ready+Dataset&center=true&width=500&height=45">
