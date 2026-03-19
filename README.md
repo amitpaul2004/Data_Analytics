@@ -1,37 +1,115 @@
+# 🚀 Data Science ( Analytics) & Machine Learning 
+
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Titanic+Data+Analysis;ANOVA+Statistical+Testing;Python+Data+Science+Project;Data+Visualization+with+Seaborn;Machine+Learning+Ready+Dataset&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analytics+Projects;Machine+Learning+Portfolio;Visualization+Beyond+Basics;Python+%7C+Pandas+%7C+Seaborn;Real+World+Datasets+Analysis&center=true&width=500&height=45">
 
 </p>
 
-# 🚢 Titanic Survival Analysis
+---
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+</p>
 
 ---
 
-## 📊 Project Overview
+# 📊 Project Overview
 
-This project analyzes the **Titanic passenger dataset** to identify patterns that influenced survival rates.
+This repository is a **comprehensive collection of Data Science and Machine Learning projects**.
 
-The project demonstrates:
+It demonstrates:
 
-- 📊 Data analysis
-- 📈 Data visualization
-- 🎬 Animated plots
-- 📉 Statistical testing using **ANOVA**
+✨ Data Analysis  
+🤖 Machine Learning  
+📊 Statistical Testing (ANOVA)  
+📈 Advanced Visualization  
+🎬 Animated Graphs  
+🌍 Real-world datasets  
 
 ---
 
-## 📁 Dataset
+# 📁 Repository Structure 
 
-Dataset used: **Titanic Dataset (Seaborn)**
+📦 Project Root 
+- 📂 codes → Jupyter notebooks (ML, EDA, visualization)
+- 📂 data → Real-world datasets (CSV, Excel)
+- 📜 README.md
 
-| Column | Description |
-|------|------|
-| survived | Survival status (0 = No, 1 = Yes) |
-| sex | Passenger gender |
-| class | Passenger class |
-| age | Passenger age |
-| fare | Ticket price |
+---
+
+---
+
+# 🔥 Featured Projects
+
+## 🚢 Titanic Survival Analysis
+✔ ANOVA testing  
+✔ Survival prediction  
+✔ Confusion matrix + ROC curve  
+✔ Advanced visualization  
+
+---
+
+## 📱 Social Media Analytics
+✔ Engagement analysis  
+✔ Trend detection  
+✔ Histogram & pie charts  
+
+---
+
+## 🏏 IPL Data Analysis
+✔ Player performance  
+✔ Career graph  
+✔ Team prediction model  
+
+---
+
+## 🎬 Netflix Series Analysis
+✔ Monthly trending  
+✔ Genre popularity  
+✔ Viewer insights  
+
+---
+
+## 🌍 Earthquake Analysis
+✔ Magnitude distribution  
+✔ Time trend analysis  
+✔ Geographic insights  
+
+---
+
+## 📈 Economic Growth Prediction
+✔ Future trend modeling  
+✔ Dataset generation  
+✔ Visualization forecasting  
+
+---
+
+## 🤖 Machine Learning Models
+✔ Logistic Regression  
+✔ Linear Regression  
+✔ Classification & Prediction  
+✔ Model evaluation  
+
+---
+
+## 🎨 Visualization Beyond Basics
+
+- Pairplots  
+- Heatmaps  
+- Violin plots  
+- KDE plots  
+- 3D Visualizations  
+- Animated graphs  
+
+---
 
 Dataset loaded using:
 
@@ -39,15 +117,6 @@ Dataset loaded using:
 import seaborn as sns
 df = sns.load_dataset("titanic")
 ```
-
-## ⚙️ Technologies Used
-
-- Python  
-- Pandas  
-- Seaborn  
-- Matplotlib  
-- Statsmodels  
-- Jupyter Notebook
 
 ---
 
@@ -94,11 +163,20 @@ import matplotlib.animation as animation
 Animated plots dynamically display survival rates across classes.
 
 ---
-📊 Key Insights
 
--📌 Female passengers had higher survival rates
--📌 First-class passengers survived more often
--📌 Gender and passenger class significantly influence survival probability
+# ⚙️ Tech Stack
+
+```bash
+Python | Pandas | NumPy | Seaborn | Matplotlib | Plotly | Scikit-learn
+```
+## ⚙️ Technologies Used
+
+- Python  
+- Pandas  
+- Seaborn  
+- Matplotlib  
+- Statsmodels  
+- Jupyter Notebook
 
 ---
 
@@ -130,6 +208,7 @@ Animated plots dynamically display survival rates across classes.
 │   ├── 📄 breast_cancer.ipynb
 │   ├── 📄 earth_quake_2.ipynb
 │   ├── 📄 ecomic_gwrth.ipynb
+│   ├── 📄 finalproject.ipynb
 │   ├── 📄 gender.ipynb
 │   ├── 📄 ios_android.ipynb
 │   ├── 📄 ipl.ipynb
@@ -155,24 +234,7 @@ Animated plots dynamically display survival rates across classes.
 │   ├── 📄 titanic4ANOVA.ipynb
 │   └── 📄 train.ipynb
 ├── 📁 data
-│   ├── 📄 Road_Accidents_2017-Tables_3.7.csv
-│   ├── 📄 antutu_android_vs_ios_v3.csv
-│   ├── 📄 earthquake_1995-2023.csv
-│   ├── 📄 india_economic_growth_large_dataset.csv
-│   ├── 📄 indian_cricket_team_t20.csv
-│   ├── 📄 ipl_players_career_dataset.xlsx
-│   ├── 📄 kolkata-2025-domestic.csv
-│   ├── 📄 kolkata-2025-international.csv
-│   ├── 📄 netflix_series_monthly_popularity_dataset (1).xlsx
-│   ├── 📄 paypal_transactions_dataset.xlsx
-│   ├── 📄 phonepe_transactions_dataset.xlsx
-│   ├── 📄 query.csv
-│   ├── 📄 razer_dataset_2026.xlsx
-│   ├── 📄 social_media_engagement_dataset.csv
-│   ├── 📄 social_media_trends_dataset.xlsx
-│   ├── 📄 student_fruit_dataset.xlsx
-│   ├── 📄 vgsales.csv
-│   └── 📄 youtube_trending_videos_dataset_2026.xlsx
+│   ├──  ( all data of .ipynb files )
 └── 📝 README.md
 ```
 
@@ -211,13 +273,3 @@ If you like this project:
 - 🚀 Share it with others
 
 
----
-
-### If you want, I can also show you how to add:
-
-- **GitHub contribution graph animation**
-- **3D snake animation**
-- **profile stats cards**
-- **project demo GIF**
-
-These make GitHub repos look **extremely impressive.**
